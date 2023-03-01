@@ -1,4 +1,4 @@
-package br.com.lojavirutal.modelo;
+package br.com.roanistore.modelo;
 
 public class Produto
 {

@@ -1,15 +1,15 @@
-package br.com.lojavirutal.main;
+package br.com.roanistore.main;
 import java.sql.SQLException;
 import java.util.List;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import br.com.lojavirutal.dao.CategoriaDAO;
-import br.com.lojavirutal.dao.ProdutoDAO;
-import br.com.lojavirutal.factory.ConnectionFactory;
-import br.com.lojavirutal.modelo.Categoria;
-import br.com.lojavirutal.modelo.Produto;
+import br.com.roanistore.dao.CategoriaDAO;
+import br.com.roanistore.dao.ProdutoDAO;
+import br.com.roanistore.factory.ConnectionFactory;
+import br.com.roanistore.modelo.Categoria;
+import br.com.roanistore.modelo.Produto;
 
 public class RoaniStoreMain
 {

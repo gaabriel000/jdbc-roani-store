@@ -1,4 +1,4 @@
-package br.com.lojavirutal.factory;
+package br.com.roanistore.factory;
 
 import java.sql.Connection;
 import java.sql.SQLException;
